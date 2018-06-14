@@ -13,6 +13,8 @@ p6df::modules::svn::external::brew() {
 p6df::modules::svn::init() {
 
   alias s='svn'
+  alias svni='svn --set-depth immediates'
+  alias svna='svn --set-depth infinity'
 
   p6df::modules::svn::prompt
 }
