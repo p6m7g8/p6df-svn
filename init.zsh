@@ -10,6 +10,11 @@ p6df::modules::svn::external::brew() {
   brew install subversion
 }
 
+p6df::modules::svn::home::symlink() {
+  
+  # XXX: TBD
+}
+
 p6df::modules::svn::init() {
 
   alias s='svn'
