@@ -39,4 +39,10 @@ p6df::modules::svn::vcs_info() {
 
 p6df::prompt::svn::line() {
 
+  p6_svn_prompt_info
 }
+
+p6_svn_prompt_info() {
+
+}
+
