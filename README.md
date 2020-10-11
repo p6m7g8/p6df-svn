@@ -7,6 +7,5 @@
 - p6df::modules::svn::prompt()
 - p6df::modules::svn::prompt_precmd()
 - p6df::modules::svn::vcs_info()
-- p6df::modules::svn::version()
 - p6df::prompt::svn::line()
 
