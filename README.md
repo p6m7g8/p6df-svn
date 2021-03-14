@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-svn:
+
+#### p6df-svn/init.zsh:
 
 - p6_svn_prompt_info()
 - p6df::modules::svn::deps()
