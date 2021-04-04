@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-svn/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **README:** updates generator ([#12](https://github.com/p6m7g8/p6df-svn/issues/12)) ([52bdd9e](https://github.com/p6m7g8/p6df-svn/commit/52bdd9ea4d0144eb0035817c8b02e2829352268f))
+* Coc -> .github ([db28dc7](https://github.com/p6m7g8/p6df-svn/commit/db28dc72a828398100c008458889a253fc3118b3))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-svn/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
